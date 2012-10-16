@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><Response status="OK" ttl="14400">
+<Model><Year>2011</Year><Make>Ford</Make><Version/><VehicleType>commercial-truck</VehicleType><ModelName>StrippedChassis</ModelName><VehicleLineCode>F3311</VehicleLineCode><Pricing><Low><BaseMSRP>23070</BaseMSRP><BaseAZPlan>21029</BaseAZPlan><BaseXPlan>22117</BaseXPlan></Low><High><BaseMSRP>32610</BaseMSRP><BaseAZPlan>27903</BaseAZPlan><BaseXPlan>29211</BaseXPlan></High><PlanApplicability><AZ>false</AZ><FNX>false</FNX><PRX>false</PRX><SPX>false</SPX></PlanApplicability></Pricing></Model>
+<Model><Year>2010</Year><Make>Ford</Make><Version/><VehicleType>suv</VehicleType><ModelName>Explorer</ModelName><VehicleLineCode>F2710</VehicleLineCode><Pricing><Low><BaseMSRP>29280</BaseMSRP><BaseAZPlan>26866</BaseAZPlan><BaseXPlan>28328</BaseXPlan></Low><High><BaseMSRP>42075</BaseMSRP><BaseAZPlan>37918</BaseAZPlan><BaseXPlan>39718</BaseXPlan></High><PlanApplicability><AZ>false</AZ><FNX>false</FNX><PRX>false</PRX><SPX>false</SPX></PlanApplicability></Pricing></Model>
+<Model><Year>2013</Year><Make>Ford</Make><Version/><VehicleType>suv</VehicleType><ModelName>Explorer</ModelName><VehicleLineCode>F2713</VehicleLineCode><Pricing><Low><BaseMSRP>29135</BaseMSRP><BaseAZPlan>26928</BaseAZPlan><BaseXPlan>28124</BaseXPlan></Low><High><BaseMSRP>40720</BaseMSRP><BaseAZPlan>37093</BaseAZPlan><BaseXPlan>38768</BaseXPlan></High><PlanApplicability><AZ>false</AZ><FNX>false</FNX><PRX>false</PRX><SPX>false</SPX></PlanApplicability></Pricing></Model>
+
+
+</Response>
